@@ -1,0 +1,6 @@
+C:\Users\sina\Desktop\Solid\Solid\OCP\OcpSample\OcpSample\bin\Debug\OcpSample.exe.config
+C:\Users\sina\Desktop\Solid\Solid\OCP\OcpSample\OcpSample\bin\Debug\OcpSample.exe
+C:\Users\sina\Desktop\Solid\Solid\OCP\OcpSample\OcpSample\bin\Debug\OcpSample.pdb
+C:\Users\sina\Desktop\Solid\Solid\OCP\OcpSample\OcpSample\obj\Debug\OcpSample.csprojResolveAssemblyReference.cache
+C:\Users\sina\Desktop\Solid\Solid\OCP\OcpSample\OcpSample\obj\Debug\OcpSample.exe
+C:\Users\sina\Desktop\Solid\Solid\OCP\OcpSample\OcpSample\obj\Debug\OcpSample.pdb
