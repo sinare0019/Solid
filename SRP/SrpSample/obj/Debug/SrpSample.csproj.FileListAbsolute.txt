@@ -1,0 +1,6 @@
+C:\Users\sina\Desktop\Solid\Solid\SRP\SrpSample\SrpSample\bin\Debug\SrpSample.exe.config
+C:\Users\sina\Desktop\Solid\Solid\SRP\SrpSample\SrpSample\bin\Debug\SrpSample.exe
+C:\Users\sina\Desktop\Solid\Solid\SRP\SrpSample\SrpSample\bin\Debug\SrpSample.pdb
+C:\Users\sina\Desktop\Solid\Solid\SRP\SrpSample\SrpSample\obj\Debug\SrpSample.csprojResolveAssemblyReference.cache
+C:\Users\sina\Desktop\Solid\Solid\SRP\SrpSample\SrpSample\obj\Debug\SrpSample.exe
+C:\Users\sina\Desktop\Solid\Solid\SRP\SrpSample\SrpSample\obj\Debug\SrpSample.pdb
