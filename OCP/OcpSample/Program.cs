@@ -10,10 +10,10 @@ namespace OcpSample
     {
         static void Main(string[] args)
         {
-            Telegram tel = new Telegram();
+            ISendMessage sendMessageTelegram = new Telegram();
             string message;
             message = Console.ReadLine();
-            tel.Message(message);
+            sendMessageTelegram.Message(message);
             Console.ReadKey();
         }
     }
